@@ -107,25 +107,24 @@
 
 ### 7. SCENARIO-BASED QUESTIONS (3-5 menit)
 **Tujuan**: Menilai decision-making dan priority setting
-
-20. **"Misalkan lagi ada UTS besok, tapi hari ini kamu shift di UPT dan tiba-tiba ada banyak masalah teknis yang harus diselesaikan. Kamu bakal gimana?"**
+16. **"Misalkan lagi ada UTS besok, tapi hari ini kamu shift di UPT dan tiba-tiba ada banyak masalah teknis yang harus diselesaikan. Kamu bakal gimana?"**
     - ✅ **Jawaban Positif**: Balance antara tanggung jawab dan prioritas, komunikasi dengan tim, cari solusi
     - ⚠️ **Red Flag**: Langsung prioritaskan diri sendiri tanpa koordinasi
 
-21. **"Kalau ada mahasiswa/user yang komplain atau marah-marah ke kamu soal masalah komputer, bagaimana kamu respond?"**
+17. **"Kalau ada mahasiswa/user yang komplain atau marah-marah ke kamu soal masalah komputer, bagaimana kamu respond?"**
     - *Evaluasi: Service mindset, emotional control, profesionalisme*
 
-22. **"Kamu ditawarin pekerjaan part-time dengan gaji lebih gede di luar, tapi jadwalnya bentrok sama shift UPT. Kamu pilih yang mana?"**
+18. **"Kamu ditawarin pekerjaan part-time dengan gaji lebih gede di luar, tapi jadwalnya bentrok sama shift UPT. Kamu pilih yang mana?"**
     - *Pertanyaan killer untuk mengukur komitmen*
 
 ---
 
 ### 8. PENUTUP & KESEMPATAN BERTANYA (2-3 menit)
 
-23. **"Ada yang mau kamu tanyakan tentang UPT atau hal lain?"**
+19. **"Ada yang mau kamu tanyakan tentang UPT atau hal lain?"**
     - *Catat kualitas pertanyaan: menunjukkan ketertarikan genuine atau tidak*
 
-24. **"Oke, terakhir, coba kamu kasih tau kami dalam satu kalimat, kenapa kami harus pilih kamu?"**
+20. **"Oke, terakhir, coba kamu kasih tau kami dalam satu kalimat, kenapa kami harus pilih kamu?"**
     - *Evaluasi: Confidence, self-awareness, selling point*
 
 **Penutup**:
